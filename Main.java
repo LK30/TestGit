@@ -5,6 +5,7 @@ public class Main {
         System.out.println("main1");
         System.out.println("brand1");
         System.out.println("main2");
+        System.out.println("brand2");
     }
 
 }
