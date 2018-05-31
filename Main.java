@@ -10,6 +10,7 @@ public class Main {
         System.out.println("release版本，fix修复了");
         System.out.println("main3");
         System.out.println("release版本，再一次fix修复了");
+        System.out.println("main4");
 
     }
 
