@@ -6,6 +6,8 @@ public class Main {
         System.out.println("brand1");
         System.out.println("main2");
         System.out.println("brand2");
+        System.out.println("release版本，发布用的");
+
     }
 
 }
