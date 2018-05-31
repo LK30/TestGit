@@ -7,6 +7,7 @@ public class Main {
         System.out.println("main2");
         System.out.println("brand2");
         System.out.println("release版本，发布用的");
+        System.out.println("release版本，fix修复了");
 
     }
 
