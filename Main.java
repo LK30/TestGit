@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("brand1");
+        System.out.println("brand2");
     }
 
 }
